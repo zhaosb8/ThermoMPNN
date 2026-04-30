@@ -1,0 +1,13 @@
+platform:
+  accel: "gpu"
+  cache_dir: "/absolute/path/to/ThermoMPNN-1.0.0/cache"
+  thermompnn_dir: "/absolute/path/to/ThermoMPNN-1.0.0"
+
+data_loc:
+  megascale_csv: ""
+  megascale_splits: ""
+  megascale_pdbs: ""
+
+  fireprot_csv: ""
+  fireprot_splits: ""
+  fireprot_pdbs: ""
